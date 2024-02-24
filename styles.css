@@ -1,20 +1,15 @@
 body{
 	background-color : #f5f5f5
 }
-#wht{
-	
+header{
 	background-color : #011e29;
 	color:white;
+	text-align:center;
 	width:100%;
 	height:auto;
-}
-#one{
-	display:flex;
-	justify-content: center;
-	align-items: center;
 	padding:15px;
-	margin:1px;
 }
+
 section{
 	display:flex;
 	justify-content:center;
