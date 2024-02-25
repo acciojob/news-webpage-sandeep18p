@@ -16,6 +16,14 @@ section{
 	margin:2px;
     
 }
+.pictorial-news-section{
+	background-color: white;
+	width: 22.50%;
+		height:auto;
+	text-align: center;
+	 border-radius: 10px;
+	padding:1px;
+}
 .mid{
 	background-color: white;
     border: 1px solid white;
